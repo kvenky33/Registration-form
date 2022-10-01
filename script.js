@@ -93,7 +93,7 @@ function validate(isSubmit) {
     }
 
     if (!error && isSubmit) {
-      alert("your information have been submitted succesfully");
+      alert("Your details have been saved succesfully!");
       reset();
     }
   }
